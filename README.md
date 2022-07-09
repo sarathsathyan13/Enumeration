@@ -12,6 +12,6 @@ Httprobe :
 
 
 git clone https://github.com/sarathsathyan13/enumeration.git
-cd enumeration
+cd Enumeration
 chmod +x autoEnumeration.sh
 ./autoEnumeration.sh
