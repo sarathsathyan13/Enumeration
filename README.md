@@ -9,3 +9,9 @@ Assetfinder :
 
 Httprobe :
  go get -u github.com/tomnomnom/httprobe
+
+
+git clone https://github.com/sarathsathyan13/enumeration.git
+cd enumeration
+chmod +x autoEnumeration.sh
+./autoEnumeration.sh
