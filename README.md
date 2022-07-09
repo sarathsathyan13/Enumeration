@@ -1,4 +1,4 @@
-# enumeration
+# Enumeration
 this shell script help to automate subdomain enumeration.
 # Install required tools
 Sublist3r :
